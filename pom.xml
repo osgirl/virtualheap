@@ -28,7 +28,7 @@
     <packaging>jar</packaging>
     <version>1.3-SNAPSHOT</version>
     <name>virtualheap</name>
-    <description>A dramework for replicated objects</description>
+    <description>A framework for replicated objects</description>
 
     <organization>
         <name>Betfair</name>
@@ -51,7 +51,7 @@
         </license>
     </licenses>
 
-    <url>http://github.com/betfair/virtualheap</url>
+    <url>http://betfair.github.io/virtualheap</url>
 
     <issueManagement>
         <system>GitHub</system>
@@ -68,9 +68,14 @@
 
     <scm>
         <connection>scm:git:git@github.com:betfair/virtualheap.git</connection>
-        <url>scm:git:git@github.com:betfair/virtualheap.git</url>
+        <url>https://github.com/betfair/virtualheap.git</url>
         <developerConnection>scm:git:git@github.com:betfair/virtualheap.git</developerConnection>
     </scm>
+
+    <ciManagement>
+        <system>Travis CI</system>
+        <url>https://travis-ci.org/betfair/virtualheap</url>
+    </ciManagement>
 
     <properties>
         <junit.dependency.version>4.6</junit.dependency.version>
