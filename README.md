@@ -12,6 +12,7 @@ Features
 * Heaps may be chained together.
 * Heaps may be represented in the domain of your choice.
 
+[![Build Status](https://travis-ci.org/betfair/virtualheap.png?branch=master)](https://travis-ci.org/betfair/virtualheap)
 
 Licensing
 ---------
