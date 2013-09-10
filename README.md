@@ -1,7 +1,17 @@
 virtualheap
 ===========
 
-Framework for replicated objects
+Virtualheap is a framework for supporting replicated objects between servers that are interacted with in the domain of your choice.
+
+Features
+--------
+
+* Transactional interaction with a heap.
+* Atomic updates to child heaps.
+* Can register listeners to a heap.
+* Heaps may be chained together.
+* Heaps may be represented in the domain of your choice.
+
 
 Licensing
 ---------
