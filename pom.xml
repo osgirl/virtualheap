@@ -69,7 +69,7 @@
     <scm>
         <connection>scm:git:git@github.com:betfair/virtualheap.git</connection>
         <url>https://github.com/betfair/virtualheap.git</url>
-        <developerConnection>scm:git:git@github.com:betfair/virtualheap.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:betfair/virtualheap</developerConnection>
     </scm>
 
     <ciManagement>
