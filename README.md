@@ -12,6 +12,16 @@ Features
 * Heaps may be chained together.
 * Heaps may be represented in the domain of your choice.
 
+Documentation
+-------------
+
+[Main site](http://betfair.github.io/virtualheap/)
+
+Status
+------
+
+Currently we only have a snapshot available in the OSS Sonatype Repository. We hope to change that soon.
+
 [![Build Status](https://travis-ci.org/betfair/virtualheap.png?branch=master)](https://travis-ci.org/betfair/virtualheap)
 
 Licensing
