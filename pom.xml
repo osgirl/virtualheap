@@ -53,6 +53,11 @@
 
     <url>http://github.com/betfair/virtualheap</url>
 
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/betfair/virtualheap/issues</url>
+    </issueManagement>
+
     <mailingLists>
         <mailingList>
             <name>virtualheap user list</name>
